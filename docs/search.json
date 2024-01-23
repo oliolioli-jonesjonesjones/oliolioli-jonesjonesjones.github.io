@@ -9,9 +9,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "This is my index",
+    "title": "About Me",
     "section": "",
-    "text": "This is my index"
+    "text": "blah\n\n\nblah blah"
+  },
+  {
+    "objectID": "index.html#more-about-me",
+    "href": "index.html#more-about-me",
+    "title": "About Me",
+    "section": "",
+    "text": "blah blah"
   },
   {
     "objectID": "quarto.html",
