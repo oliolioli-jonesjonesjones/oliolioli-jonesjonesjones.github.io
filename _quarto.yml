@@ -9,3 +9,4 @@ website:
       - href: index.qmd
         text: Home
       - About.qmd
+      - quarto.qmd
