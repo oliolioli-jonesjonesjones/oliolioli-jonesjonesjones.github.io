@@ -4,9 +4,20 @@ project:
 
 website:
   title: 'oliolioli-jonesjonesjones'
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - About.qmd
-      - quarto.qmd
+  # navbar:
+  #   left:
+  #     - href: index.qmd
+  #       text: Home
+  #     - About.qmd
+  #     - quarto.qmd
+  sidebar:
+    style: docked
+    search: true
+    contents: 
+      - section: 'Basics'
+        contents: 
+          - index.qmd
+          - About.qmd
+      - section: 'My Work'
+        contents: 
+          - quarto.qmd
