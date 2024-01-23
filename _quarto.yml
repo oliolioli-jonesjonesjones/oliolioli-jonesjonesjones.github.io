@@ -14,3 +14,8 @@ website:
       - section: 'My Work'
         contents: 
           - quarto.qmd
+
+format: 
+  html: 
+    theme: darkly
+    
