@@ -2,23 +2,44 @@
   {
     "objectID": "About.html",
     "href": "About.html",
-    "title": "This is my about",
+    "title": "Work Experience",
     "section": "",
-    "text": "This is my about"
+    "text": "2021 - Present\nWorking as a BI developer to deliver insights to internal programme teams.\nTools used: - Tableau - SQL - Python - Azure\n\n\n\n2016 - 2021\nSenior data engineer focused on building a regulatory platform in SAS which we later migrated to Google Cloud.\nTools used: - Tableau - SQL - SAS - Google cloud - Shell scripting - Hadoop"
+  },
+  {
+    "objectID": "About.html#current-nhs-england",
+    "href": "About.html#current-nhs-england",
+    "title": "Work Experience",
+    "section": "",
+    "text": "2021 - Present\nWorking as a BI developer to deliver insights to internal programme teams.\nTools used: - Tableau - SQL - Python - Azure"
+  },
+  {
+    "objectID": "About.html#previous-hsbc",
+    "href": "About.html#previous-hsbc",
+    "title": "Work Experience",
+    "section": "",
+    "text": "2016 - 2021\nSenior data engineer focused on building a regulatory platform in SAS which we later migrated to Google Cloud.\nTools used: - Tableau - SQL - SAS - Google cloud - Shell scripting - Hadoop"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "About Me",
+    "title": "About",
     "section": "",
-    "text": "blah\n\n\nblah blah"
+    "text": "I am a data engineer and BI developer working for the NHS. My current focus is bringing software engineering principles to data visualisation. Previously I worked as a data engineer in on-prem to cloud migration projects.\n\n\n\nSee ‘My Work’ section for software i have used."
+  },
+  {
+    "objectID": "index.html#oli-jones",
+    "href": "index.html#oli-jones",
+    "title": "About",
+    "section": "",
+    "text": "I am a data engineer and BI developer working for the NHS. My current focus is bringing software engineering principles to data visualisation. Previously I worked as a data engineer in on-prem to cloud migration projects."
   },
   {
     "objectID": "index.html#more-about-me",
     "href": "index.html#more-about-me",
-    "title": "About Me",
+    "title": "About",
     "section": "",
-    "text": "blah blah"
+    "text": "See ‘My Work’ section for software i have used."
   },
   {
     "objectID": "quarto.html",

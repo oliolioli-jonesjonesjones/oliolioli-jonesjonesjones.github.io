@@ -1,7 +1,11 @@
-# About Me
+# About
 
-blah
+## Oli Jones
+
+I am a data engineer and BI developer working for the NHS. 
+My current focus is bringing software engineering principles to data visualisation.
+Previously I worked as a data engineer in on-prem to cloud migration projects.
 
 ## More about me 
 
-blah blah
+See 'My Work' section for software i have used.

@@ -1,1 +1,25 @@
-# This is my about
+# Work Experience
+
+## Current: NHS England
+2021 - Present
+
+Working as a BI developer to deliver insights to internal programme teams.
+
+Tools used:
+- Tableau
+- SQL
+- Python
+- Azure
+
+## Previous: HSBC
+2016 - 2021
+
+Senior data engineer focused on building a regulatory platform in SAS which we later migrated to Google Cloud.
+
+Tools used:
+- Tableau
+- SQL
+- SAS
+- Google cloud
+- Shell scripting
+- Hadoop
