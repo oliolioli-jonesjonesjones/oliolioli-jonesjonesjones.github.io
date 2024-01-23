@@ -1,8 +1,15 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "This is my index",
+    "section": "",
+    "text": "This is my index"
+  },
+  {
     "objectID": "quarto.html",
     "href": "quarto.html",
-    "title": "",
+    "title": "oliolioli-jonesjonesjones",
     "section": "",
     "text": "Quarto testing\nUsing guidance published here: https://quarto.org/docs/publishing/github-pages.html"
   }

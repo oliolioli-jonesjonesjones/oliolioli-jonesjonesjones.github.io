@@ -1,3 +1,11 @@
 project:
   type: website
   output-dir: docs
+
+website:
+  title: 'oliolioli-jonesjonesjones'
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - About.qmd
