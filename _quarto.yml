@@ -3,18 +3,11 @@ project:
   output-dir: docs
 
 website:
-  title: 'oliolioli-jonesjonesjones'
-  # navbar:
-  #   left:
-  #     - href: index.qmd
-  #       text: Home
-  #     - About.qmd
-  #     - quarto.qmd
   sidebar:
     style: docked
     search: true
     contents: 
-      - section: 'Basics'
+      - section: 'About Me'
         contents: 
           - index.qmd
           - About.qmd
