@@ -1,0 +1,9 @@
+# Data Visualisation Experience
+
+I would consider myself more of an engineer than designer and have been focused on bringing best engineering practices to the world of data visualisation.
+
+Standardisation
+Version control
+Abstraction
+
+## Tableau
