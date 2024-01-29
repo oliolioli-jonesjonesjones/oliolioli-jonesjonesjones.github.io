@@ -10,17 +10,19 @@ website:
     contents: 
       - section: 'About Me'
         contents: 
-          - index.qmd
+          - text: 'Me'
+            file: index.qmd
           - About.qmd
       - section: 'My Work'
         contents: 
-          - quarto.qmd
           - text: 'Data Engineering Experience'
             file: Data_eng.qmd
           - text: 'Data Visualisation Experience'
             file: Data_vis.qmd
+          - quarto.qmd
+
 
 format: 
   html: 
-    theme: darkly
+    theme: sketchy
     

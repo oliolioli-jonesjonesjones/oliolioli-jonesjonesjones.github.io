@@ -7,12 +7,14 @@ Business Intelligence developer focused on building visualisation products to be
 decision making for healthcare professionals to improve patient experience.
 
 My responsibilities include:
+
 - End to end Tableau development (stakeholder engagement, requirements & design, data sourcing, dashboard build, UAT & handover to stakeholders)
 - Improve Tableau development operating model - this includes setting up systems and processes for collecting requirements that can be used to improve developers efficiency.
 - Data pipeline build in python on Azure
 - Run visualisation tool proof of concepts to expand the offering of the team (currently looking at using Streamlit and other web app tools to display data to users)
 
 Tools used:
+
 - Tableau
 - SQL
 - Python
@@ -24,6 +26,7 @@ Tools used:
 Data developer and analyst on a project focused on migrating legacy financial reporting systems onto Google Cloud.
 
 My responsibilities include:
+
 - SQL development with several different Google scrums involving converting SAS jobs to run on Google and uplifting current Google BigQuery SQLs/workflows. Experience with development of several concurrent code branches managed with JIRA & GitHub.
 - Creation and integration of data workflows to allow two large reporting batches to run as one integrated batch.
 - Batch monitoring and troubleshooting using Google logging tools.
@@ -37,6 +40,7 @@ My responsibilities include:
 - Mentoring and training of junior team members
 
 Tools used:
+
 - Tableau
 - SQL
 - SAS
