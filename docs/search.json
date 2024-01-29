@@ -4,35 +4,35 @@
     "href": "About.html",
     "title": "Work Experience",
     "section": "",
-    "text": "2021 - Present\nWorking as a BI developer to deliver insights to internal programme teams.\nTools used: - Tableau - SQL - Python - Azure\n\n\n\n2016 - 2021\nSenior data engineer focused on building a regulatory platform in SAS which we later migrated to Google Cloud.\nTools used: - Tableau - SQL - SAS - Google cloud - Shell scripting - Hadoop"
+    "text": "2021 - Present\nBusiness Intelligence developer focused on building visualisation products to be used to support decision making for healthcare professionals to improve patient experience.\nMy responsibilities include: - End to end Tableau development (stakeholder engagement, requirements & design, data sourcing, dashboard build, UAT & handover to stakeholders) - Improve Tableau development operating model - this includes setting up systems and processes for collecting requirements that can be used to improve developers efficiency. - Data pipeline build in python on Azure - Run visualisation tool proof of concepts to expand the offering of the team (currently looking at using Streamlit and other web app tools to display data to users)\nTools used: - Tableau - SQL - Python - Azure\n\n\n\n2016 - 2021\nData developer and analyst on a project focused on migrating legacy financial reporting systems onto Google Cloud.\nMy responsibilities include: - SQL development with several different Google scrums involving converting SAS jobs to run on Google and uplifting current Google BigQuery SQLs/workflows. Experience with development of several concurrent code branches managed with JIRA & GitHub. - Creation and integration of data workflows to allow two large reporting batches to run as one integrated batch. - Batch monitoring and troubleshooting using Google logging tools. - Data management including data sourcing using SFTP & Hadoop to migrate data from On-premise systems to Google Cloud, building & maintaining table schemas and creating extracts - Coordinating deployments from GitHub to UAT/Production environments using Jenkins - Data model and dashboard build using Tableau for a range of MI products - Stakeholder support during UAT/transition to investigate and resolve any bugs that arise - Application SME for the migration from On-premise SAS to Google Cloud – Guided Google specific design issues, coordinating code/environment integration and managing the technical side of UAT. - Reporting Framework PoC – This included building a tool in Appian to capture reporting framework requirements. I was responsible for the design of the back end data model and build in Appian - End user tool testing – Configuration and user testing of workflow management tool, adjustment tool and validation frameworks. - Mentoring and training of junior team members\nTools used: - Tableau - SQL - SAS - Google cloud - Shell scripting - Hadoop"
   },
   {
-    "objectID": "About.html#current-nhs-england",
-    "href": "About.html#current-nhs-england",
+    "objectID": "About.html#current-nhs-england---bi-developer",
+    "href": "About.html#current-nhs-england---bi-developer",
     "title": "Work Experience",
     "section": "",
-    "text": "2021 - Present\nWorking as a BI developer to deliver insights to internal programme teams.\nTools used: - Tableau - SQL - Python - Azure"
+    "text": "2021 - Present\nBusiness Intelligence developer focused on building visualisation products to be used to support decision making for healthcare professionals to improve patient experience.\nMy responsibilities include: - End to end Tableau development (stakeholder engagement, requirements & design, data sourcing, dashboard build, UAT & handover to stakeholders) - Improve Tableau development operating model - this includes setting up systems and processes for collecting requirements that can be used to improve developers efficiency. - Data pipeline build in python on Azure - Run visualisation tool proof of concepts to expand the offering of the team (currently looking at using Streamlit and other web app tools to display data to users)\nTools used: - Tableau - SQL - Python - Azure"
   },
   {
-    "objectID": "About.html#previous-hsbc",
-    "href": "About.html#previous-hsbc",
+    "objectID": "About.html#previous-hsbc---senior-global-finance-change-bi-developer",
+    "href": "About.html#previous-hsbc---senior-global-finance-change-bi-developer",
     "title": "Work Experience",
     "section": "",
-    "text": "2016 - 2021\nSenior data engineer focused on building a regulatory platform in SAS which we later migrated to Google Cloud.\nTools used: - Tableau - SQL - SAS - Google cloud - Shell scripting - Hadoop"
+    "text": "2016 - 2021\nData developer and analyst on a project focused on migrating legacy financial reporting systems onto Google Cloud.\nMy responsibilities include: - SQL development with several different Google scrums involving converting SAS jobs to run on Google and uplifting current Google BigQuery SQLs/workflows. Experience with development of several concurrent code branches managed with JIRA & GitHub. - Creation and integration of data workflows to allow two large reporting batches to run as one integrated batch. - Batch monitoring and troubleshooting using Google logging tools. - Data management including data sourcing using SFTP & Hadoop to migrate data from On-premise systems to Google Cloud, building & maintaining table schemas and creating extracts - Coordinating deployments from GitHub to UAT/Production environments using Jenkins - Data model and dashboard build using Tableau for a range of MI products - Stakeholder support during UAT/transition to investigate and resolve any bugs that arise - Application SME for the migration from On-premise SAS to Google Cloud – Guided Google specific design issues, coordinating code/environment integration and managing the technical side of UAT. - Reporting Framework PoC – This included building a tool in Appian to capture reporting framework requirements. I was responsible for the design of the back end data model and build in Appian - End user tool testing – Configuration and user testing of workflow management tool, adjustment tool and validation frameworks. - Mentoring and training of junior team members\nTools used: - Tableau - SQL - SAS - Google cloud - Shell scripting - Hadoop"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "About",
     "section": "",
-    "text": "I am a data engineer and BI developer working for the NHS. My current focus is bringing software engineering principles to data visualisation. Previously I worked as a data engineer in on-prem to cloud migration projects.\n\n\n\nSee ‘My Work’ section for software i have used."
+    "text": "I am a data engineer and BI developer working for the NHS. My current focus is bringing software engineering principles to data visualisation.\n\nEnd to End data & visualisation developer with experience in data sourcing & management, SQL & workflow build and data visualisation.\nExperience working within an Agile development team using a range of technologies including Azure, SAS, Hadoop and Google Cloud Platform.\nDetail orientated and logical approach to problem solving demonstrated during solution analysis/design and investigation of report reconciliation breaks.\n\n\n\n\nSee ‘My Work’ section for software i have used."
   },
   {
     "objectID": "index.html#oli-jones",
     "href": "index.html#oli-jones",
     "title": "About",
     "section": "",
-    "text": "I am a data engineer and BI developer working for the NHS. My current focus is bringing software engineering principles to data visualisation. Previously I worked as a data engineer in on-prem to cloud migration projects."
+    "text": "I am a data engineer and BI developer working for the NHS. My current focus is bringing software engineering principles to data visualisation.\n\nEnd to End data & visualisation developer with experience in data sourcing & management, SQL & workflow build and data visualisation.\nExperience working within an Agile development team using a range of technologies including Azure, SAS, Hadoop and Google Cloud Platform.\nDetail orientated and logical approach to problem solving demonstrated during solution analysis/design and investigation of report reconciliation breaks."
   },
   {
     "objectID": "index.html#more-about-me",

@@ -4,7 +4,10 @@
 
 I am a data engineer and BI developer working for the NHS. 
 My current focus is bringing software engineering principles to data visualisation.
-Previously I worked as a data engineer in on-prem to cloud migration projects.
+
+- End to End data & visualisation developer with experience in data sourcing & management, SQL & workflow build and data visualisation.
+- Experience working within an Agile development team using a range of technologies including Azure, SAS, Hadoop and Google Cloud Platform.
+- Detail orientated and logical approach to problem solving demonstrated during solution analysis/design and investigation of report reconciliation breaks.
 
 ## More about me 
 
