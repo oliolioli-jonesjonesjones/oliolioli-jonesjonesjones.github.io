@@ -1,6 +1,6 @@
 # Work Experience
 
-## Current: NHS England - BI developer
+## Current: NHS England - BI Developer
 2021 - Present
 
 Business Intelligence developer focused on building visualisation products to be used to support
@@ -8,10 +8,10 @@ decision making for healthcare professionals to improve patient experience.
 
 My responsibilities include:
 
-- End to end Tableau development (stakeholder engagement, requirements & design, data sourcing, dashboard build, UAT & handover to stakeholders)
-- Improve Tableau development operating model - this includes setting up systems and processes for collecting requirements that can be used to improve developers efficiency.
-- Data pipeline build in python on Azure
-- Run visualisation tool proof of concepts to expand the offering of the team (currently looking at using Streamlit and other web app tools to display data to users)
+* End to end Tableau development (stakeholder engagement, requirements & design, data sourcing, dashboard build, UAT & handover to stakeholders)
+* Improve Tableau development operating model - this includes setting up systems and processes for collecting requirements that can be used to improve developers efficiency.
+* Data pipeline build in python on Azure
+* Run visualisation tool proof of concepts to expand the offering of the team (currently looking at using Streamlit and other web app tools to display data to users)
 
 Tools used:
 
@@ -20,7 +20,7 @@ Tools used:
 - Python
 - Azure
 
-## Previous: HSBC - SENIOR GLOBAL FINANCE CHANGE BI DEVELOPER
+## Previous: HSBC - Senior BI Developer
 2016 - 2021
 
 Data developer and analyst on a project focused on migrating legacy financial reporting systems onto Google Cloud.
