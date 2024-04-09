@@ -7,32 +7,46 @@
     "text": "I would consider myself more of an engineer than designer and have been focused on bringing best engineering practices to the world of data visualisation.\n\nStandardisation - Products are configured and aligned to a engineering guide. This allows developers to jump between products without issue.\nVersion control - Use of GitHub to manage visualisaton products\nAbstraction - Data sources and dashboards are configured and managed seperately rather than bundled together. This allows for reuse across products.\n\n\n\nI have been using Tableau for over 5 years across multiple teams and currently lead dashboard development in may team.\nI have completed the following Tableau delivered courses:\n\nDesktop I: Fundamentals\nDesktop II: Intermediate Concepts\nVisual Analytics\n\n\n\n\nI have limited Power BI experience (lack of use in my organisation) but have completed the Microsoft delivered course and attained the Microsoft Certified: Power BI Data Analyst Associate certification as well as some personal PoC projects."
   },
   {
+    "objectID": "Data_vis.html#tableau",
+    "href": "Data_vis.html#tableau",
+    "title": "Data Visualisation Experience",
+    "section": "",
+    "text": "I have been using Tableau for over 5 years across multiple teams and currently lead dashboard development in may team.\nI have completed the following Tableau delivered courses:\n\nDesktop I: Fundamentals\nDesktop II: Intermediate Concepts\nVisual Analytics"
+  },
+  {
+    "objectID": "Data_vis.html#power-bi",
+    "href": "Data_vis.html#power-bi",
+    "title": "Data Visualisation Experience",
+    "section": "",
+    "text": "I have limited Power BI experience (lack of use in my organisation) but have completed the Microsoft delivered course and attained the Microsoft Certified: Power BI Data Analyst Associate certification as well as some personal PoC projects."
+  },
+  {
     "objectID": "quarto.html",
     "href": "quarto.html",
     "title": "Oliver Jones",
     "section": "",
-    "text": "Quarto\nThis ‘online CV’ has been created using Quarto - a python package I have been exploring recently to create dashboard summaries.\nQuarto allows you to create dynamic markdown (amongst other things) that I have been using to provide KPI summaries for senior stakeholders.\nAt work I create Quarto documents that use the same data source as my dashboards but output to Word/PDF. My stakeholders then have a 1 page summary of key dashboard stats that can be referenced in meetings etc without having to dig through a dashboard.\nUsing guidance published here: https://quarto.org/"
+    "text": "Quarto\nThis ‘online CV’ has been created using Quarto - a python package I have been exploring recently to create dashboard summaries.\nQuarto allows you to create dynamic markdown (amongst other things) that I have been using to provide KPI summaries for senior stakeholders.\nAt work I create Quarto documents that use the same data source as my dashboards but output to Word/PDF/Powerpoint. My stakeholders then have a 1 page summary of key dashboard stats that can be referenced in meetings etc without having to dig through a dashboard.\nUsing guidance published here: https://quarto.org/docs/publishing/github-pages.html\n\nSteps to recreate this site:\n\nClone this repo to begin or create your first page as index.qmd\nUsing the quarto CLi, render the html from the .qmd file using: quarto render and output to a docs folder\nPush to your own repo\nIn repo settings, go to Pages and select your docs folder as the source"
   },
   {
     "objectID": "Data_eng.html",
     "href": "Data_eng.html",
     "title": "Data Engineering Experience",
     "section": "",
-    "text": "Data Engineering Experience"
+    "text": "Data Engineering Experience\nHSBC\nNHS\nMicrosoft Certified: Azure Data Engineer Associate"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Oli Jones",
     "section": "",
-    "text": "I am a data engineer and BI developer working for the NHS. My current focus is bringing software engineering principles to data visualisation.\n\nEnd to End data & visualisation developer with experience in data sourcing & management, SQL & workflow build and data visualisation.\nExperience working within an Agile development team using a range of technologies including Azure, SAS, Hadoop and Google Cloud Platform.\nDetail orientated and logical approach to problem solving demonstrated during solution analysis/design and investigation of report reconciliation breaks.\n\n\n\nSee ‘My Work’ section for software i have used."
+    "text": "I am a data engineer and BI developer working for the NHS. My current focus is bringing software engineering principles to data visualisation."
   },
   {
     "objectID": "index.html#more-about-me",
     "href": "index.html#more-about-me",
     "title": "Oli Jones",
-    "section": "",
-    "text": "See ‘My Work’ section for software i have used."
+    "section": "More about me",
+    "text": "More about me\nSee ‘My Work’ section for software i have used."
   },
   {
     "objectID": "About.html",
@@ -54,19 +68,5 @@
     "title": "Work Experience",
     "section": "",
     "text": "2016 - 2021\nData developer and analyst working on projects focusing on migrating legacy financial reporting systems onto Google Cloud.\nMy responsibilities include:\n\nSQL development with several different Google scrums involving converting SAS jobs to run on Google and uplifting current Google BigQuery SQLs/workflows. Experience with development of several concurrent code branches managed with JIRA & GitHub.\nCreation and integration of data workflows to allow two large reporting batches to run as one integrated batch.\nBatch monitoring and troubleshooting using Google logging tools.\nData management including data sourcing using SFTP & Hadoop to migrate data from On-premise systems to Google Cloud, building & maintaining table schemas and creating extracts\nCoordinating deployments from GitHub to UAT/Production environments using Jenkins\nData model and dashboard build using Tableau for a range of MI products\nStakeholder support during UAT/transition to investigate and resolve any bugs that arise\nApplication SME for the migration from On-premise SAS to Google Cloud – Guided Google specific design issues, coordinating code/environment integration and managing the technical side of UAT.\nReporting Framework PoC – This included building a tool in Appian to capture reporting framework requirements. I was responsible for the design of the back end data model and build in Appian\nEnd user tool testing – Configuration and user testing of workflow management tool, adjustment tool and validation frameworks.\nMentoring and training of junior team members\n\nTools used:\n\nTableau\nSQL\nSAS\nGoogle cloud\nShell scripting\nHadoop"
-  },
-  {
-    "objectID": "Data_vis.html#tableau",
-    "href": "Data_vis.html#tableau",
-    "title": "Data Visualisation Experience",
-    "section": "",
-    "text": "I have been using Tableau for over 5 years across multiple teams and currently lead dashboard development in may team.\nI have completed the following Tableau delivered courses:\n\nDesktop I: Fundamentals\nDesktop II: Intermediate Concepts\nVisual Analytics"
-  },
-  {
-    "objectID": "Data_vis.html#power-bi",
-    "href": "Data_vis.html#power-bi",
-    "title": "Data Visualisation Experience",
-    "section": "",
-    "text": "I have limited Power BI experience (lack of use in my organisation) but have completed the Microsoft delivered course and attained the Microsoft Certified: Power BI Data Analyst Associate certification as well as some personal PoC projects."
   }
 ]

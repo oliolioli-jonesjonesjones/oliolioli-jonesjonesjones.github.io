@@ -1,4 +1,12 @@
-# Oli Jones
+---
+title: Oli Jones
+image: img/IMG_0847.JPG
+about:
+    template: jolla
+    image-shape: round
+---
+
+
 
 I am a data engineer and BI developer working for the NHS. 
 My current focus is bringing software engineering principles to data visualisation.
