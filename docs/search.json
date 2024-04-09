@@ -4,7 +4,7 @@
     "href": "blog.html",
     "title": "blog",
     "section": "",
-    "text": "Week in Review\n\n\n\n\n\n\n\nWIR\n\n\n\n\n\n\n\n\n\n\n\nApr 12, 2024\n\n\nOliver Jones\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\ngeneral\n\n\n\n\n\n\n\n\n\n\n\nApr 1, 2024\n\n\nOliver Jones\n\n\n\n\n\n\nNo matching items"
+    "text": "Week in Review\n\n\n\n\n\n\n\nWIR\n\n\n\n\n\n\n\n\n\n\n\nApr 12, 2024\n\n\nOliver Jones\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\ngeneral\n\n\n\n\n\n\n\n\n\n\n\nApr 1, 2024\n\n\nOliver Jones\n\n\n\n\n\n\n  \n\n\n\n\nWeek in Review\n\n\n\n\n\n\n\nWIR\n\n\n\n\n\n\n\n\n\n\n\nApr 1, 2024\n\n\nOliver Jones\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "About.html",
@@ -35,18 +35,18 @@
     "text": "I am a data engineer and BI developer working for the NHS. My current focus is bringing software engineering principles to data visualisation."
   },
   {
-    "objectID": "index.html#more-about-me",
-    "href": "index.html#more-about-me",
+    "objectID": "index.html#what-is-on-this-site",
+    "href": "index.html#what-is-on-this-site",
     "title": "Oli Jones",
-    "section": "More about me",
-    "text": "More about me\nSee ‘My Work’ section for software i have used."
+    "section": "What is on this site?",
+    "text": "What is on this site?\nSee the About Me &gt; Work Experience section for my online CV. The My Work section for a breakdown of major tasks. And the blog section for my Week in Review posts."
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "posts/WIR-new/index.html",
+    "href": "posts/WIR-new/index.html",
+    "title": "Week in Review",
     "section": "",
-    "text": "This is the first post in my Quarto blog. Welcome!\nHere i will post updates around my work within the NHS"
+    "text": "NEW BLOG"
   },
   {
     "objectID": "posts/WIR-20240408/index.html",
@@ -91,11 +91,32 @@
     "text": "Friday"
   },
   {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in my Quarto blog. Welcome!\nHere i will post updates around my work within the NHS"
+  },
+  {
     "objectID": "Data_eng.html",
     "href": "Data_eng.html",
     "title": "Data Engineering Experience",
     "section": "",
-    "text": "Data Engineering Experience\nHSBC\nNHS\nMicrosoft Certified: Azure Data Engineer Associate"
+    "text": "Worked as part of a global development team on a range of projects:\n\n\nBuilt a reporting platform in SAS to collect data from across HSBC and automate the submission to regulators\nMigrated various reporting applications from their original on premise system to Google Cloud (SQL based pipelines)\n\n\n\n\n\n\n\nSupported data engineers with requirements and ad hoc development to support user dashboards.\nDesigned & built pipelines in Azure Data Factory & Databricks\n\n\nMicrosoft Certified: Azure Data Engineer Associate"
+  },
+  {
+    "objectID": "Data_eng.html#hsbc",
+    "href": "Data_eng.html#hsbc",
+    "title": "Data Engineering Experience",
+    "section": "",
+    "text": "Worked as part of a global development team on a range of projects:\n\n\nBuilt a reporting platform in SAS to collect data from across HSBC and automate the submission to regulators\nMigrated various reporting applications from their original on premise system to Google Cloud (SQL based pipelines)"
+  },
+  {
+    "objectID": "Data_eng.html#nhs",
+    "href": "Data_eng.html#nhs",
+    "title": "Data Engineering Experience",
+    "section": "",
+    "text": "Supported data engineers with requirements and ad hoc development to support user dashboards.\nDesigned & built pipelines in Azure Data Factory & Databricks\n\n\nMicrosoft Certified: Azure Data Engineer Associate"
   },
   {
     "objectID": "quarto.html",
@@ -109,14 +130,14 @@
     "href": "Data_vis.html",
     "title": "Data Visualisation Experience",
     "section": "",
-    "text": "I would consider myself more of an engineer than designer and have been focused on bringing best engineering practices to the world of data visualisation.\n\nStandardisation - Products are configured and aligned to a engineering guide. This allows developers to jump between products without issue.\nVersion control - Use of GitHub to manage visualisaton products\nAbstraction - Data sources and dashboards are configured and managed seperately rather than bundled together. This allows for reuse across products.\n\n\n\nI have been using Tableau for over 5 years across multiple teams and currently lead dashboard development in may team.\nI have completed the following Tableau delivered courses:\n\nDesktop I: Fundamentals\nDesktop II: Intermediate Concepts\nVisual Analytics\n\n\n\n\nI have limited Power BI experience (lack of use in my organisation) but have completed the Microsoft delivered course and attained the Microsoft Certified: Power BI Data Analyst Associate certification as well as some personal PoC projects."
+    "text": "I would consider myself more of an engineer than designer and have been focused on bringing best engineering practices to the world of data visualisation.\n\nStandardisation - Products are configured and aligned to a engineering guide. This allows developers to jump between products without issue.\nVersion control - Use of GitHub to manage visualisaton products\nAbstraction - Data sources and dashboards are configured and managed seperately rather than bundled together. This allows for reuse across products.\n\n\n\nI have been using Tableau for over 5 years across multiple teams and currently lead dashboard development in my team. Maintaining around 7 production dashboards.\nI have completed the following Tableau delivered courses:\n\nDesktop I: Fundamentals\nDesktop II: Intermediate Concepts\nVisual Analytics\n\n\n\n\nI have limited Power BI experience (lack of use in my organisation) but have completed the Microsoft delivered course and attained the Microsoft Certified: Power BI Data Analyst Associate certification as well as some personal PoC projects."
   },
   {
     "objectID": "Data_vis.html#tableau",
     "href": "Data_vis.html#tableau",
     "title": "Data Visualisation Experience",
     "section": "",
-    "text": "I have been using Tableau for over 5 years across multiple teams and currently lead dashboard development in may team.\nI have completed the following Tableau delivered courses:\n\nDesktop I: Fundamentals\nDesktop II: Intermediate Concepts\nVisual Analytics"
+    "text": "I have been using Tableau for over 5 years across multiple teams and currently lead dashboard development in my team. Maintaining around 7 production dashboards.\nI have completed the following Tableau delivered courses:\n\nDesktop I: Fundamentals\nDesktop II: Intermediate Concepts\nVisual Analytics"
   },
   {
     "objectID": "Data_vis.html#power-bi",

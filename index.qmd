@@ -13,6 +13,8 @@ My current focus is bringing software engineering principles to data visualisati
 - Experience working within an Agile development team using a range of technologies including Azure, SAS, Hadoop and Google Cloud Platform.
 - Detail orientated and logical approach to problem solving demonstrated during solution analysis/design and investigation of report reconciliation breaks.
 
-## More about me 
+## What is on this site?
 
-See 'My Work' section for software i have used.
+See the **About Me > Work Experience** section for my online CV.
+The **My Work** section for a breakdown of major tasks.
+And the blog section for my Week in Review posts.

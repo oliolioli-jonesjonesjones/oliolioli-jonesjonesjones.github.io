@@ -1,9 +1,20 @@
 # Data Engineering Experience
 
-HSBC
+## HSBC
 
-NHS
+Worked as part of a global development team on a range of projects:
 
+::: {}
+1. Built a reporting platform in SAS to collect data from across HSBC and automate the submission to regulators
+2. Migrated various reporting applications from their original on premise system to Google Cloud (SQL based pipelines)
+:::
+
+## NHS
+
+::: {}
+1. Supported data engineers with requirements and ad hoc development to support user dashboards.
+2. Designed & built pipelines in Azure Data Factory & Databricks
+:::
 
 Microsoft Certified: Azure Data Engineer Associate
 

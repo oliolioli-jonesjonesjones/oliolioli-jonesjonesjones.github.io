@@ -7,7 +7,7 @@ I would consider myself more of an engineer than designer and have been focused 
 - Abstraction - Data sources and dashboards are configured and managed seperately rather than bundled together. This allows for reuse across products.
 
 ## Tableau
-I have been using Tableau for over 5 years across multiple teams and currently lead dashboard development in may team.
+I have been using Tableau for over 5 years across multiple teams and currently lead dashboard development in my team. Maintaining around 7 production dashboards.
 
 I have completed the following Tableau delivered courses:
 
