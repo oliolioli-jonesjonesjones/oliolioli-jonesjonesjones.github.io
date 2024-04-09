@@ -23,7 +23,7 @@ Tools used:
 ## Previous: HSBC - Senior BI Developer
 2016 - 2021
 
-Data developer and analyst on a project focused on migrating legacy financial reporting systems onto Google Cloud.
+Data developer and analyst working on projects focusing on migrating legacy financial reporting systems onto Google Cloud.
 
 My responsibilities include:
 

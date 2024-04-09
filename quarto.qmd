@@ -1,4 +1,10 @@
-### Quarto testing 
+### Quarto 
+
+This 'online CV' has been created using Quarto - a python package I have been exploring recently to create dashboard summaries.
+
+Quarto allows you to create dynamic markdown (amongst other things) that I have been using to provide KPI summaries for senior stakeholders.
+
+At work I create Quarto documents that use the same data source as my dashboards but output to Word/PDF. My stakeholders then have a 1 page summary of key dashboard stats that can be referenced in meetings etc without having to dig through a dashboard.
 
 Using guidance published here:
-https://quarto.org/docs/publishing/github-pages.html
+https://quarto.org/

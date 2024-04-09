@@ -2,8 +2,21 @@
 
 I would consider myself more of an engineer than designer and have been focused on bringing best engineering practices to the world of data visualisation.
 
-Standardisation
-Version control
-Abstraction
+- Standardisation - Products are configured and aligned to a engineering guide. This allows developers to jump between products without issue.
+- Version control - Use of GitHub to manage visualisaton products
+- Abstraction - Data sources and dashboards are configured and managed seperately rather than bundled together. This allows for reuse across products.
 
 ## Tableau
+I have been using Tableau for over 5 years across multiple teams and currently lead dashboard development in may team.
+
+I have completed the following Tableau delivered courses:
+
+- Desktop I: Fundamentals
+- Desktop II: Intermediate Concepts
+- Visual Analytics
+
+
+## Power BI
+I have limited Power BI experience (lack of use in my organisation) but have completed the Microsoft delivered course and attained the Microsoft Certified: Power BI Data Analyst Associate certification as well as some personal PoC projects.
+
+![](./img/microsoft-certified-associate-badge.svg){width=100}
