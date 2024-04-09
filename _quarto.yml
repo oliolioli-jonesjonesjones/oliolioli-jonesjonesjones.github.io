@@ -20,6 +20,10 @@ website:
           - text: 'Data Visualisation Experience'
             file: Data_vis.qmd
           - quarto.qmd
+      - section: 'Blog'
+        contents: 
+          - text: 'Week In Review'
+            file: blog.qmd
 
 
 format: 
