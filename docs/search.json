@@ -4,7 +4,7 @@
     "href": "blog.html",
     "title": "blog",
     "section": "",
-    "text": "Week In Review\n\n\n\n\n\n\n\nWIR\n\n\n\n\n\n\n\n\n\n\n\nApr 9, 2024\n\n\nOliver Jones\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\ngeneral\n\n\n\n\n\n\n\n\n\n\n\nApr 1, 2024\n\n\nOliver Jones\n\n\n\n\n\n\nNo matching items"
+    "text": "Week in Review\n\n\n\n\n\n\n\nWIR\n\n\n\n\n\n\n\n\n\n\n\nApr 12, 2024\n\n\nOliver Jones\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\ngeneral\n\n\n\n\n\n\n\n\n\n\n\nApr 1, 2024\n\n\nOliver Jones\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "About.html",
@@ -49,11 +49,46 @@
     "text": "This is the first post in my Quarto blog. Welcome!\nHere i will post updates around my work within the NHS"
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Week In Review",
+    "objectID": "posts/WIR-20240408/index.html",
+    "href": "posts/WIR-20240408/index.html",
+    "title": "Week in Review",
     "section": "",
-    "text": "This is my first week in review post, where i will provide a weekly summary of my work."
+    "text": "Back from a weeks leave so generally focused on catching up.\nWork continues on AZ-104 course"
+  },
+  {
+    "objectID": "posts/WIR-20240408/index.html#monday",
+    "href": "posts/WIR-20240408/index.html#monday",
+    "title": "Week in Review",
+    "section": "",
+    "text": "Back from a weeks leave so generally focused on catching up.\nWork continues on AZ-104 course"
+  },
+  {
+    "objectID": "posts/WIR-20240408/index.html#tuesday",
+    "href": "posts/WIR-20240408/index.html#tuesday",
+    "title": "Week in Review",
+    "section": "Tuesday",
+    "text": "Tuesday\nOffice day - AZ-104 Networking start - Investigation into prescriptions data flow continues"
+  },
+  {
+    "objectID": "posts/WIR-20240408/index.html#wednesday",
+    "href": "posts/WIR-20240408/index.html#wednesday",
+    "title": "Week in Review",
+    "section": "Wednesday",
+    "text": "Wednesday"
+  },
+  {
+    "objectID": "posts/WIR-20240408/index.html#thursday",
+    "href": "posts/WIR-20240408/index.html#thursday",
+    "title": "Week in Review",
+    "section": "Thursday",
+    "text": "Thursday"
+  },
+  {
+    "objectID": "posts/WIR-20240408/index.html#friday",
+    "href": "posts/WIR-20240408/index.html#friday",
+    "title": "Week in Review",
+    "section": "Friday",
+    "text": "Friday"
   },
   {
     "objectID": "Data_eng.html",

@@ -1,0 +1,24 @@
+---
+title: "Week in Review"
+author: "Oliver Jones"
+date: "2024-04-12"
+categories: [WIR]
+draft: false
+---
+
+## Monday
+- Back from a weeks leave so generally focused on catching up.
+- Work continues on AZ-104 course
+
+## Tuesday
+Office day
+- AZ-104 Networking start
+- Investigation into prescriptions data flow continues
+
+## Wednesday
+
+
+## Thursday
+
+
+## Friday
