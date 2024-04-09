@@ -3,7 +3,6 @@ title: "Week in Review"
 author: "Oliver Jones"
 date: "2024-04-12"
 categories: [WIR]
-draft: false
 ---
 
 ## Monday
