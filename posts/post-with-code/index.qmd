@@ -1,0 +1,8 @@
+---
+title: "Week In Review"
+author: "Oliver Jones"
+date: "2024-04-09"
+categories: [WIR]
+---
+
+This is my first week in review post, where i will provide a weekly summary of my work.

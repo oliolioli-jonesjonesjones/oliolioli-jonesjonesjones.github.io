@@ -1,0 +1,10 @@
+---
+title: "Welcome To My Blog"
+author: "Oliver Jones"
+date: "2024-04-01"
+categories: [general]
+---
+
+This is the first post in my Quarto blog. Welcome!
+
+Here i will post updates around my work within the NHS
